@@ -1,0 +1,10 @@
+What is an instance of a class known as?,Object,Method,Class,Variable
+What do we call the blueprint that defines the structure of an object?,Template Class,Method,Constructor,Object
+Which of the following is NOT a property of an object?,Template,State,Behavior,Identity
+What keyword is used in Java to create a new object?,new,class,Struct,this
+What is the role of a constructor in a class?,To initialize new objects,To declare variables,To define methods,To call functions
+What would be the output of System.out.println(p1 == p2); if p1 and p2 are different instances of the same class with identical values?,FALSE,Error,TRUE,Null
+If person is an instance of Human with a height set to 150... what does person.getHeight() return?,The height of the person,The weight of the person,It sets the height,It doesn't return anything
+Which attribute is NOT typically part of an object's state?,Actions,Name,Size,Color
+What is a constructor’s return type?,Constructors do not have a return type,char,void,boolean
+What describes the this keyword?,Refers to the instance of the class,Refers to the method,Refers to a static member of the class,Refers to the superclass
